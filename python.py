@@ -23,6 +23,6 @@ print('nasceu no dia', dia, 'do mes', mês, 'do ano de', ano )
 
 
 primeiro= input('Primeiro numero: ')
-segundo= input('Segundo numero: ')
+segundo= input('Segundo num: ')
 print(primeiro,segundo)
 
