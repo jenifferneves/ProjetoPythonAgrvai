@@ -1,5 +1,5 @@
 nome= input('Qual é seu nome?')
-print('Prazer em te conhecer {}!'.format(nome))
+print('Prar em te conhecer {}!'.format(nome))
 
 
 n1=int(input('Um valor:'))
