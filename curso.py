@@ -2,7 +2,7 @@ nome= input('Qual é seu nome?')
 print('Prar em te conhecer {}!'.format(nome))
 
 
-n1=int(input('Um valor:'))
+n1=int(input('um valor:'))
 n2=int(input('Outro valor:'))
 print('A soma vale {}'.format(n1+n2))
 
